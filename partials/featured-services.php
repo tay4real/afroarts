@@ -45,6 +45,22 @@
             <p>From concept to execution, we specialize in organizing events and festivals that celebrate the richness of cultural expression.</p>
           </div>
         </div>
+
+        <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="600">
+          <div class="service-item position-relative">
+           
+            <h4><a href="" class="stretched-link">Art Sales</a></h4>
+            <p>Explore and acquire exceptional artworks through our website, connecting with artists and adding a touch of cultural sophistication to your space.</p>
+          </div>
+        </div>
+
+        <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="600">
+          <div class="service-item position-relative">
+           
+            <h4><a href="" class="stretched-link">Poetry Rendition</a></h4>
+            <p>Experience the power of words through our poetry renditions, where talented poets bring their words to life in captivating performances.</p>
+          </div>
+        </div>
         <!-- End Service Item -->
 
       </div>
