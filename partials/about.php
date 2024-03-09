@@ -112,6 +112,20 @@
             <p>From concept to execution, we specialize in organizing events and festivals that celebrate the richness of cultural expression.
 </p>
 
+<div class="d-flex align-items-center mt-4 mb-3">
+              <i class="bi bi-check2"></i>
+              <h4>Art Sales</h4>
+            </div>
+            <p>Explore and acquire exceptional artworks through our website, connecting with artists and adding a touch of cultural sophistication to your space.
+</p>
+
+<div class="d-flex align-items-center mt-4 mb-3">
+              <i class="bi bi-check2"></i>
+              <h4>Poetry Rendition</h4>
+            </div>
+            <p>Experience the power of words through our poetry renditions, where talented poets bring their words to life in captivating performances.
+</p>
+
           </div><!-- End Tab 3 Content -->
 
         </div>

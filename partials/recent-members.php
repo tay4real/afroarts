@@ -12,7 +12,7 @@
 
         <div class="col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="200">
             <div class="post-box">
-              <a href="member-portfolio.php">
+              <a href="artist-portfolio.php">
                 <div class="post-img"><img src="assets/img/members/artist.png" class="img-fluid" alt=""></div>
                 <h3 class="post-title">Tosin Iwayemi</h3>
               </a>
@@ -22,7 +22,7 @@
 
           <div class="col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="400">
             <div class="post-box">
-            <a href="member-portfolio.php">
+            <a href="artist-portfolio.php">
                 <div class="post-img"><img src="assets/img/members/artist.png" class="img-fluid" alt=""></div>
                 <h3 class="post-title">Tosin Iwayemi</h3>
               </a>
@@ -32,7 +32,7 @@
 
           <div class="col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="600">
             <div class="post-box">
-            <a href="member-portfolio.php">
+            <a href="artist-portfolio.php">
                 <div class="post-img"><img src="assets/img/members/artist.png" class="img-fluid" alt=""></div>
                 <h3 class="post-title">Tosin Iwayemi</h3>
               </a>
@@ -42,7 +42,7 @@
 
           <div class="col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="200">
             <div class="post-box">
-              <a href="member-portfolio.php">
+              <a href="artist-portfolio.php">
                 <div class="post-img"><img src="assets/img/members/artist.png" class="img-fluid" alt=""></div>
                 <h3 class="post-title">Tosin Iwayemi</h3>
               </a>
@@ -52,7 +52,7 @@
 
           <div class="col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="400">
             <div class="post-box">
-            <a href="member-portfolio.php">
+            <a href="artist-portfolio.php">
                 <div class="post-img"><img src="assets/img/members/artist.png" class="img-fluid" alt=""></div>
                 <h3 class="post-title">Tosin Iwayemi</h3>
               </a>
@@ -62,7 +62,7 @@
 
           <div class="col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="600">
             <div class="post-box">
-            <a href="member-portfolio.php">
+            <a href="artist-portfolio.php">
                 <div class="post-img"><img src="assets/img/members/artist.png" class="img-fluid" alt=""></div>
                 <h3 class="post-title">Tosin Iwayemi</h3>
               </a>
