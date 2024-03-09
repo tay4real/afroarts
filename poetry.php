@@ -18,11 +18,16 @@
 
   <main id="main">
 
-    <div class="mt-5"></div>
-    <!-- ======= Portfolio Section ======= -->
-    <?php $portfolio_title = "Work Portfolio" ?>
-    <?php include_once("./partials/portfolio.php") ?>
-   <!-- End Portfolio Section -->
+    <div class="mt-5 mb-5"></div>
+    <!-- ======= Poetry Section ======= -->
+   <div class="row mt-5">
+      
+       <div class="d-flex justify-content-center" style="width: 100%; height: 70vh;margin-top: 50px; margin-bottom: 50px">
+            <img  src="./assets/img/consruction.jpg" style="width: 100%; height: 100%; object-fit:contain" alt="site under construction" />
+       </div>
+       
+   </div>
+   <!-- End Poetry Section -->
 
   
 

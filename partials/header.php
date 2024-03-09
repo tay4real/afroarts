@@ -13,6 +13,7 @@
           <li><a  href="about.php">About</a></li>
           <li><a class="nav-link scrollto" href="opencalls.php">Open Calls</a></li>
           <li><a  href="exhibitions.php">Exhibitions</a></li>
+          <li><a  href="poetry.php">Poetry</a></li>
           <li><a  href="work.php">Work</a></li>
           <li><a href="membership.php">Membership</a></li>
           <li><a href="membership.php">AfroArts Magazine</a></li>
