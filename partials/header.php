@@ -10,21 +10,21 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto" href="index.php">Home</a></li>
-          <li><a  href="about.php">About</a></li>
           <li><a class="nav-link scrollto" href="opencalls.php">Open Calls</a></li>
           <li><a  href="exhibitions.php">Exhibitions</a></li>
-          <li><a  href="poetry.php">Poetry</a></li>
           <li><a  href="work.php">Work</a></li>
           <li><a href="membership.php">Membership</a></li>
-          <li><a href="membership.php">AfroArts Magazine</a></li>
+          <li><a  href="poetry.php">Poetry</a></li>
+          <li><a href="afro-magazine.php">Afro Magazine</a></li>
+          <li><a  href="services.php">Services</a></li>
           <li><a  href="contact.php">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle d-none"></i>
       </nav><!-- .navbar -->
 
-      <div>
+      <!-- <div>
         <a class="btn-login" href="login.php">Login</a>
-      </div>
+      </div> -->
       
 
     </div>

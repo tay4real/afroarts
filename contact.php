@@ -18,7 +18,12 @@
 
   <main id="main">
 
-   
+    <!-- ======= Breadcrumbs ======= -->
+    <?php 
+    $page_title = "Contact Us";
+    ?>
+    <?php include_once("./partials/breadcrumb.php")  ?>
+    <!-- End Breadcrumbs -->
 
 
     <!-- ======= Contact Section ======= -->

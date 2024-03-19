@@ -1,7 +1,7 @@
 <section id="featured-services" class="featured-services">
     <div class="container">
 
-    <div class="section-header">
+      <div class="section-header">
           <h2>Our Services</h2>
         </div>
       <div class="row gy-4">

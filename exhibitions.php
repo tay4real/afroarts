@@ -14,11 +14,28 @@
 <?php include_once('./partials/header.php') ?>
 <!-- End Header -->
 
-  <?php  include_once("./partials/hero.php")  ?>
+
 
   <main id="main">
 
-   
+  <!-- ======= Breadcrumbs ======= -->
+  <?php 
+    $page_title = "Exhibitions";
+    ?>
+    <?php include_once("./partials/breadcrumb.php")  ?>
+
+    <!-- End Breadcrumbs -->
+
+  
+    <!-- ======= Open Calls Section ======= -->
+   <div class="row mt-5">
+      
+       <div class="d-flex justify-content-center" style="width: 100%; height: 70vh; margin-bottom: 50px">
+            <img  src="./assets/img/consruction.jpg" style="width: 100%; height: 100%; object-fit:contain" alt="site under construction" />
+       </div>
+       
+   </div>
+   <!-- End Poetry Section -->
 
   </main><!-- End #main -->
 

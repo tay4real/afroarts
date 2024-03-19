@@ -18,30 +18,17 @@
 
   <main id="main">
 
-  
-
-
    <!-- ======= Features Section ======= -->
    <?php include_once("./partials/features.php") ?>
     <!-- End Features Section -->
 
-    <!-- ======= Featured Services Section ======= -->
-    <?php include_once("./partials/featured-services.php")  ?>
-    <!-- End Featured Services Section -->
+   
 
-  <!-- ======= Gallery Section ======= -->
+  <!-- ======= Art Gallery Section ======= -->
     <?php 
     $portfolio_title = "Art Collections";
     include_once("./partials/portfolio.php") ?>
-   <!-- End Portfolio Section -->
-
-
-  <!-- ======= Membership Section ======= -->
-    <?php include_once("./partials/recent-members.php") ?>
-   <!-- End Portfolio Section -->
-    
-
-
+   <!-- End Art Gallery Section -->
 
   </main><!-- End #main -->
 
@@ -51,18 +38,10 @@
 
   <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
-  <!-- <div id="preloader"></div> -->
+  <div id="preloader"></div>
 
   <?php include_once("./partials/scripts.php")  ?>
 
-  <script>
-    const myCarouselElement = document.querySelector('#myCarousel')
-
-    const carousel = new bootstrap.Carousel(myCarouselElement, {
-      interval: 2000,
-      touch: false
-    })
-  </script>
 </body>
 
 </html>

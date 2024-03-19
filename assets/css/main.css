@@ -2017,6 +2017,14 @@ section {
 /*--------------------------------------------------------------
 # Portfolio Section
 --------------------------------------------------------------*/
+
+
+.fixed-image img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 .portfolio .portfolio-flters {
   padding: 0;
   margin: 0 auto 30px auto;
@@ -2681,7 +2689,7 @@ section {
 .blog .posts-list .post-img {
   max-height: 240px;
   margin: -30px -30px 0 -30px;
-  overflow: hidden;
+  overflow:hidden;
 }
 
 .blog .posts-list .title {

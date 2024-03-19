@@ -28,7 +28,10 @@
     <div class="row g-0 portfolio-container">
 
       <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-1">
-        <img src="assets/img/artworks/1.png" class="img-fluid" alt="">
+        <div class="fixed-image">
+          <img src="assets/img/artworks/1.png" class="img-fluid" alt="">
+        </div>
+        
         <div class="portfolio-info">
           <h4>KANURI</h4>
           <a href="assets/img/artworks/1.png" title="KANURI" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
@@ -37,7 +40,10 @@
       </div><!-- End Portfolio Item -->
 
       <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-1">
-        <img src="assets/img/artworks/2.png" class="img-fluid" alt="">
+        <div class="fixed-image">
+          <img src="assets/img/artworks/2.png" class="img-fluid" alt="">
+        </div>
+        
         <div class="portfolio-info">
           <h4>FACE OF THE GODS</h4>
           <a href="assets/img/artworks/2.png" title="FACE OF THE GODS" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
@@ -46,7 +52,10 @@
       </div><!-- End Portfolio Item -->
 
       <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-2">
-        <img src="assets/img/artworks/3.png" class="img-fluid" alt="">
+        <div class="fixed-image">
+          <img src="assets/img/artworks/3.png" class="img-fluid" alt="">
+        </div>
+        
         <div class="portfolio-info">
           <h4>GODDESS</h4>
           <a href="assets/img/artworks/3.png" title="GODDESS" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
@@ -57,7 +66,9 @@
      
 
       <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-2">
-        <img src="assets/img/artworks/4.png" class="img-fluid" alt="">
+        <div class="fixed-image">
+          <img src="assets/img/artworks/4.png" class="img-fluid" alt="">
+        </div>
         <div class="portfolio-info">
           <h4>SAMBURU</h4>
           <a href="assets/img/artworks/4.png" title="SAMBURU" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
@@ -66,7 +77,9 @@
       </div><!-- End Portfolio Item -->
 
       <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-3">
-        <img src="assets/img/artworks/5.png" class="img-fluid" alt="">
+        <div class="fixed-image">
+          <img src="assets/img/artworks/5.png" class="img-fluid" alt="">
+        </div>
         <div class="portfolio-info">
           <h4>HOPE IN HOPELESSNESS</h4>
           <a href="assets/img/artworks/5.png" title="HOPE IN HOPELESSNESS" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
@@ -75,7 +88,9 @@
       </div><!-- End Portfolio Item -->
 
       <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-3">
-        <img src="assets/img/artworks/6.png" class="img-fluid" alt="">
+        <div class="fixed-image">
+          <img src="assets/img/artworks/6.png" class="img-fluid" alt="">
+        </div>
         <div class="portfolio-info">
           <h4>WITHCRAFT</h4>
           <a href="assets/img/artworks/6.png" title="WITHCRAFT" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
@@ -84,7 +99,9 @@
       </div><!-- End Portfolio Item -->
 
       <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-4">
-        <img src="assets/img/artworks/7.png" class="img-fluid" alt="">
+        <div class="fixed-image">
+          <img src="assets/img/artworks/7.png" class="img-fluid" alt="">
+        </div>
         <div class="portfolio-info">
           <h4>SPIRIT REALM</h4>
           <a href="assets/img/artworks/7.png" title="SPIRIT REALM" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
@@ -93,7 +110,9 @@
       </div><!-- End Portfolio Item -->
 
       <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-4">
-        <img src="assets/img/artworks/8.png" class="img-fluid" alt="">
+        <div class="fixed-image">
+          <img src="assets/img/artworks/8.png" class="img-fluid" alt="">
+        </div>
         <div class="portfolio-info">
           <h4>OREKELEWA</h4>
           <a href="assets/img/artworks/8.png" title="OREKELEWA" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
@@ -101,23 +120,7 @@
         </div>
       </div><!-- End Portfolio Item -->
 
-      <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-5">
-        <img src="assets/img/artworks/9.png" class="img-fluid" alt="">
-        <div class="portfolio-info">
-          <h4>TRADITIONAL MARRIAGE</h4>
-          <a href="assets/img/artworks/9.png" title="TRADITIONAL MARRIAGE" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-          <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-        </div>
-      </div><!-- End Portfolio Item -->
-
-      <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-5">
-        <img src="assets/img/artworks/10.png" class="img-fluid" alt="">
-        <div class="portfolio-info">
-          <h4>GODDESS</h4>
-          <a href="assets/img/artworks/10.png" title="GODDESS" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-          <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-        </div>
-      </div><!-- End Portfolio Item -->
+    
 
       
 
@@ -133,7 +136,7 @@
     </div><!-- End Portfolio Container -->
 
     <div class="section-header mt-5">
-          <a class="btn p-3" style="background-color: #0ea2bd; color: #fff">View all Collections</a>
+          <a href="work.php" class="btn p-3" style="background-color: #0ea2bd; color: #fff">View all Collections</a>
         </div>
 
   </div>

@@ -21,7 +21,6 @@
         <ul class="nav nav-pills mb-3">
           <li><a class="nav-link active" data-bs-toggle="pill" href="#tab1">Our Mission</a></li>
           <li><a class="nav-link" data-bs-toggle="pill" href="#tab2">What Sets Us Apart</a></li>
-          <li><a class="nav-link" data-bs-toggle="pill" href="#tab3">Our Services</a></li>
         </ul><!-- End Tabs -->
 
         <!-- Tab Content -->
@@ -74,59 +73,7 @@
 
           </div><!-- End Tab 2 Content -->
 
-          <div class="tab-pane fade show" id="tab3">
-
-            <!-- <p class="fst-italic">Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p> -->
-
-            <div class="d-flex align-items-center mt-4 mb-3">
-              <i class="bi bi-check2"></i>
-              <h4>Workplace Solutions</h4>
-            </div>
-            <p>Elevate your workplace with our tailored solutions that place inclusion, arts, and culture at the core of organizational development.
-</p>
-
-            <div class="d-flex align-items-center mt-4 mb-3">
-              <i class="bi bi-check2"></i>
-              <h4>Talent Development & Management</h4>
-            </div>
-            <p>Transform spaces into galleries with our expert art curation services, creating immersive environments that inspire and captivate.
-
-</p>
-
-            <div class="d-flex align-items-center mt-4 mb-3">
-              <i class="bi bi-check2"></i>
-              <h4>Art Curation</h4>
-            </div>
-            <p>Establish strategic partnerships with companies and individuals, amplifying your business network.</p>
-
-            <div class="d-flex align-items-center mt-4 mb-3">
-              <i class="bi bi-check2"></i>
-              <h4>Magazine Publication</h4>
-            </div>
-            <p>Immerse yourself in the world of arts and culture with our magazine publication, a visual and intellectual journey that explores the depths of creativity.</p>
-
-            <div class="d-flex align-items-center mt-4 mb-3">
-              <i class="bi bi-check2"></i>
-              <h4>Events and Festivals</h4>
-            </div>
-            <p>From concept to execution, we specialize in organizing events and festivals that celebrate the richness of cultural expression.
-</p>
-
-<div class="d-flex align-items-center mt-4 mb-3">
-              <i class="bi bi-check2"></i>
-              <h4>Art Sales</h4>
-            </div>
-            <p>Explore and acquire exceptional artworks through our website, connecting with artists and adding a touch of cultural sophistication to your space.
-</p>
-
-<div class="d-flex align-items-center mt-4 mb-3">
-              <i class="bi bi-check2"></i>
-              <h4>Poetry Rendition</h4>
-            </div>
-            <p>Experience the power of words through our poetry renditions, where talented poets bring their words to life in captivating performances.
-</p>
-
-          </div><!-- End Tab 3 Content -->
+          
 
         </div>
 
